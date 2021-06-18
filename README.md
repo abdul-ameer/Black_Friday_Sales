@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [https://black-friday-sales.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://black-friday-sales.herokuapp.com/](https://black-friday-sales.herokuapp.com/)
 
 [![](https://i.imgur.com/6XdWdcO.png)](https://black-friday-sales.herokuapp.com/)
 
@@ -69,6 +69,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 * Front-End 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@ameerkings](https://www.github.com/ameerkings123)
 
   
