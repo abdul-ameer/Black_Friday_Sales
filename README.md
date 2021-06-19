@@ -71,4 +71,9 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 - [@ameerkings](https://www.github.com/ameerkings123)
 
+
+<div align="center">
+<b>Please do ⭐ this repo if you liked my work</b>
+</div>
+
   
