@@ -73,7 +73,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 
 <div align="center">
-<b>Please do :star2 this repo if you liked my work</b>
+<b>Please do 🌟 this repo if you liked my work</b>
 </div>
 
   
