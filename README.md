@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://black-friday-sales.herokuapp.com/](https://black-friday-sales.herokuapp.com/)
 
-[![](https://i.imgur.com/6XdWdcO.png)](https://black-friday-sales.herokuapp.com/)
+[![](https://github.com/ameerkings123/Black_Friday_Sales/blob/master/Readme/WebApp.gif)](https://black-friday-sales.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts price of Black Friday.
